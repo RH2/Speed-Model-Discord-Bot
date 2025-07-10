@@ -1,4 +1,4 @@
-# Speed Modeling Competition Host (Bot) 
+# Speed Modeling Competition Host (Discord Bot) 
 
 This is a bot that lets you throw down a challenge and see who wants to compete.
 It will also place finished uploads in the gallery channel
